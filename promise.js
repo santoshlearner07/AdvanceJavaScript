@@ -11,4 +11,3 @@ p.then((message) =>{
     console.log('This is in the ' + message)
 }).catch((message)=>{
     console.log('This is in the ' + message)
-});
